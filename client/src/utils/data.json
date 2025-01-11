@@ -1,0 +1,27 @@
+{
+    "foods": [
+      { "name": "Oats", "caloriesPerUnit": 389, "unit": "100g" },
+      { "name": "Banana", "caloriesPerUnit": 89, "unit": "1 medium" },
+      { "name": "Milk", "caloriesPerUnit": 42, "unit": "100ml" },
+      { "name": "Protein", "caloriesPerUnit": 100, "unit": "1 scoop" },
+      { "name": "Chawal (Rice)", "caloriesPerUnit": 130, "unit": "100g" },
+      { "name": "Arhar Daal", "caloriesPerUnit": 110, "unit": "100g" },
+      { "name": "Paneer", "caloriesPerUnit": 265, "unit": "100g" },
+      { "name": "Roti", "caloriesPerUnit": 150, "unit": "1 medium" },
+      { "name": "Chhole", "caloriesPerUnit": 160, "unit": "100g" },
+      { "name": "Eggs (Boiled)", "caloriesPerUnit": 78, "unit": "1 large" },
+      { "name": "Bread", "caloriesPerUnit": 70, "unit": "1 slice" },
+      { "name": "Almonds", "caloriesPerUnit": 579, "unit": "100g" },
+      { "name": "Cashews", "caloriesPerUnit": 553, "unit": "100g" }
+    ],
+    "exerciseCalories": {
+      "pushUp": 0.29, 
+      "squat": 0.45,
+      "running": 0.63
+    },
+    "basalCalories": {
+      "weightGainFactor": 1.2,
+      "weightLossFactor": 1.5
+    }
+  }
+  
